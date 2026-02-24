@@ -20,10 +20,15 @@ Stable Diffusion is a latent diffusion model capable of generating detailed and 
 ⚙️ **Features Implemented**
 
 ✔️ Loading a pre-trained Stable Diffusion model
+
 ✔️ Prompt-based image generation
+
 ✔️ Experimentation with multiple creative prompts
+
 ✔️ Saving generated images locally
+
 ✔️ GPU / CPU compatible implementation
+
 
 🛠️ **Installation & Setup**
 
